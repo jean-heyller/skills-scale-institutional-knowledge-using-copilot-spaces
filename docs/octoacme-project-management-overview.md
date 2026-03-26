@@ -17,8 +17,14 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- QA Lead: defines the test strategy and approves releases from a quality perspective.
+- UX/UI Designer: translates requirements into user-centered designs and specs.
+- DevOps Engineer: owns CI/CD pipelines, deployments, and operational reliability.
+- Business Analyst: bridges business needs and delivery through structured requirements.
+- Customer Support/Success: brings user feedback into the process and supports release comms.
 - Stakeholders: provide inputs and approvals.
+
+See [Roles & Personas](./octoacme-roles-and-personas.md) for full descriptions and interaction patterns. See the [RACI Matrix](./octoacme-raci-matrix.md) for accountability across project phases.
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -40,6 +46,8 @@ Applies to all cross-functional projects that deliver product features, services
 - Twice-weekly standups for delivery team (or as agreed)
 - Monthly stakeholder updates
 - Ad-hoc escalations as needed
+
+See [Meeting Cadence & Agendas](./octoacme-meeting-cadence-and-agendas.md) for standard agendas and attendee guidance.
 
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.

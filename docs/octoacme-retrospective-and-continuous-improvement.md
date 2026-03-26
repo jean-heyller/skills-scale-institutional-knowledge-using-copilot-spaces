@@ -20,6 +20,7 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
 - Review outstanding actions in the weekly PM sync
+- Use the [Meeting Cadence & Agendas](./octoacme-meeting-cadence-and-agendas.md) retrospective agenda to structure the session and assign action item owners
 
 ## Example Action Item Template
 - Title:

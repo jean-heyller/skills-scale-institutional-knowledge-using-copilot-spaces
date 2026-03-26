@@ -35,6 +35,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Project Kickoff meeting scheduled — see [Meeting Cadence & Agendas](./octoacme-meeting-cadence-and-agendas.md)
+- [ ] Team roles confirmed — see [Roles & Personas](./octoacme-roles-and-personas.md) and [RACI Matrix](./octoacme-raci-matrix.md)
 
 ## Decision Gate
 Move to planning when:
