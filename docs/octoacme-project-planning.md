@@ -36,8 +36,9 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist
-- [ ] Project kickoff held
+- [ ] Project kickoff held — see [Meeting Cadence & Agendas](./octoacme-meeting-cadence-and-agendas.md) for agenda
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
-- [ ] Definition of Done documented
+- [ ] Definition of Ready and Definition of Done documented — see [DoR & DoD](./octoacme-definition-of-ready-and-done.md)
 - [ ] Initial test plan / QA approach drafted
+- [ ] Roles and accountability confirmed — see [RACI Matrix](./octoacme-raci-matrix.md)

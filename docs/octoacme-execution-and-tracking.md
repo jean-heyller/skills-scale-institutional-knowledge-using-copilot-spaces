@@ -8,6 +8,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Weekly delivery sync — show progress, updates, and flagged risks
 - Demo/Review at the end of each sprint or milestone
 
+See [Meeting Cadence & Agendas](./octoacme-meeting-cadence-and-agendas.md) for standard agendas and attendee lists.
+
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done
 - Pull Request workflow:
@@ -36,5 +38,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
-- [ ] Regular demos scheduled
+- [ ] Regular demos scheduled — see [Meeting Cadence & Agendas](./octoacme-meeting-cadence-and-agendas.md)
 - [ ] Risk register updated weekly
+- [ ] Definition of Done enforced for all items — see [DoR & DoD](./octoacme-definition-of-ready-and-done.md)
+- [ ] Team roles and escalation paths confirmed — see [Roles & Personas](./octoacme-roles-and-personas.md)
